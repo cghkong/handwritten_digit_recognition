@@ -1,0 +1,1 @@
+pyuic5 -o mousewriting.py mousewriting.ui
